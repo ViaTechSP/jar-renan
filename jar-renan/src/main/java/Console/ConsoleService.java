@@ -11,11 +11,7 @@ import java.util.TimerTask;
 
 public class ConsoleService {
 
-
-    public ConsoleService() {
-    }
-
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
 
         String usuario;
         String senha;
@@ -84,14 +80,19 @@ public class ConsoleService {
                                         System.out.println("Coletando Dados...: " + contagem);
 
                                         DiscoColeta.coletarDadosDisco();
-                                      //  MetricaService.coletaDeTemperatura();
+                                       // MetricaService.coletaDeTemperatura();
                                         try {
                                             ProcessadorColeta.coletaDeProcessador();
                                         } catch (SQLException var2) {
                                             SQLException ex = var2;
                                             throw new RuntimeException(ex);
                                         }
-                                        RamColeta.coletaDeRam();
+
+                                        try {
+                                            RamColeta.coletaDeRam();
+                                        } catch (ClassNotFoundException e) {
+                                            throw new RuntimeException(e);
+                                        }
                                     }
                                 };
                                 timer.scheduleAtFixedRate(tarefa, 5, 1000L);
@@ -99,7 +100,7 @@ public class ConsoleService {
                                 timer.cancel();
                                 executar02 = false;
                                 System.out.println("""
-                                       Coleta de Dados Cnacelada!
+                                       Coleta de Dados Cancelada!
                                         """);
                             }
                         }

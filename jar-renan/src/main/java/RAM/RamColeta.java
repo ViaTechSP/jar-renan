@@ -6,7 +6,7 @@ import com.github.britooo.looca.api.util.Conversor;
 public class RamColeta {
 
 
-    public static void coletaDeRam() {
+    public static void coletaDeRam() throws ClassNotFoundException{
         Looca looca = new Looca();
 
         String ramUtilizada = Conversor.formatarBytes(looca.getMemoria().getEmUso());

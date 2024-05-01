@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 public class RamBanco {
 
-    public void cadastrarDados(RAM metodoRam) {
+    public void cadastrarDados(RAM metodoRam) throws ClassNotFoundException{
 
         String sql = "INSERT INTO Ram (memoriaDisponivel, memoriaTotal, memoriaUtilizada) VALUES (?, ?, ?)";
 

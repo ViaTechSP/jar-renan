@@ -4,8 +4,7 @@ public class Processador {
 
     private String modelo;
     private String fabricante;
-    private Integer nucleosFisicos;
-    private Integer nucleosLogicos;
+
 
 
     public String getModelo() {
@@ -24,20 +23,5 @@ public class Processador {
         this.fabricante = fabricante;
     }
 
-    public String getNucleosFisicos() {
-        return String.valueOf(nucleosFisicos);
-    }
-
-    public void setNucleosFisicos(Integer nucleosFisicos) {
-        this.nucleosFisicos = nucleosFisicos;
-    }
-
-    public String getNucleosLogicos() {
-        return String.valueOf(nucleosLogicos);
-    }
-
-    public void setNuclSeosLogicos(Integer nucleosLogicos) {
-        this.nucleosLogicos = nucleosLogicos;
-    }
 
 }

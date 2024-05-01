@@ -1,14 +1,16 @@
 package Banco;
 
+import java.net.ConnectException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.sql.SQLOutput;
 
 public class BancoConexao {
 
 
 
-    private static final String url = "jdbc:mysql://localhost:3306/viatech";
+    private static final String url = "jdbc:mysql://127.0.0.1:3306/viatech";
 
     private static final String user = "root";
     private static final String password = "Renan12.";
@@ -30,7 +32,4 @@ public class BancoConexao {
 
     }
 
-
-
-
-}
+  }
