@@ -7,16 +7,16 @@ import java.sql.SQLException;
 
 public class ProcessadorBanco {
 
-    public void cadastrarDados(Processador metodoProcessador) throws SQLException {
+    public void cadastrarDados(Processadores processador) throws ClassNotFoundException {
 
-        String sql = "INSERT INTO Processador (nomeCPU, frequencia) VALUES (?, ?)";
+        String sql = "INSERT INTO processador (frequencia, tempoAtividade) VALUES (?, ?)";
 
         PreparedStatement ps = null;
 
         try {
             ps = BancoConexao.getbancoConexao().prepareStatement(sql);
-            ps.setString(1, metodoProcessador.getModelo());
-            ps.setString(2, metodoProcessador.getFabricante());
+            ps.setString(1, String.valueOf(processador.getFrequencia()));
+            ps.setString(2, processador.getTempoAtividade());
             ps.execute();
             ps.close();
 

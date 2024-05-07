@@ -11,7 +11,7 @@ public class ConsoleBanco {
 
     public void selectDeDados(Console console) throws ClassNotFoundException{
 
-        String sql = "SELECT * FROM Empresa WHERE nomeFantasia = ? and senha = ?";
+        String sql = "SELECT * FROM empresa WHERE nomeFantasia = ? and senha = ?";
         PreparedStatement ps = null;
         ResultSet rs = null;
 

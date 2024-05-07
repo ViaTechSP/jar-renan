@@ -3,24 +3,28 @@ package Processador;
 import com.github.britooo.looca.api.core.Looca;
 import com.github.britooo.looca.api.group.processador.Processador;
 import com.github.britooo.looca.api.group.sistema.Sistema;
+import com.github.britooo.looca.api.util.Conversor;
 
 import java.sql.SQLException;
 
 public class ProcessadorColeta {
 
-    public static void coletaDeProcessador() throws SQLException {
+    public static void coletaDeProcessador() throws ClassNotFoundException {
         Looca looca = new Looca();
         Sistema sistema = new Sistema();
 
-        Processador processador = looca.getProcessador();
-        String modeloProcessador = processador.getNome();
-        String fabricanteProcessador = processador.getFabricante();
+
+        String modeloProcessador = looca.getProcessador().getNome();
+        String frequecia = String.valueOf(looca.getProcessador().getFrequencia());
+        String tempoAtividade = Conversor.formatarSegundosDecorridos(sistema.getTempoDeAtividade());
 
 
-        Processador metodoProcessador = new Processador();
+        Processadores processador = new Processadores();
 
-       // new ProcessadorBanco().cadastrarDados(metodoProcessador);
-
+        processador.setNomeCPU(modeloProcessador);
+        processador.setFrequencia(frequecia);
+        processador.setTempoAtividade(tempoAtividade);
+        new ProcessadorBanco().cadastrarDados(processador);
     }
 
 }

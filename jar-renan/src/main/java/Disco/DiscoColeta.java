@@ -17,16 +17,19 @@ public class DiscoColeta {
 
         List<Volume> discos = grupoDeDiscos.getVolumes();
 
-        String atividadeSistema = Conversor.formatarSegundosDecorridos (sistema.getTempoDeAtividade());
+
 
         for (Volume disco : discos) {
+
+            String velocidadeLeitura = Conversor.formatarBytes(grupoDeDiscos.getDiscos().get(0).getBytesDeLeitura());
             String totalMemoria = Conversor.formatarBytes(disco.getTotal());
             String discoDisponivel = Conversor.formatarBytes (disco.getDisponivel());
 
             Disco metodoDisc = new Disco();
+            metodoDisc.setVelocidadeLeitura(velocidadeLeitura);
             metodoDisc.setEspacoTotal(totalMemoria);
             metodoDisc.setEspacoDisponivel(discoDisponivel);
-            metodoDisc.setTempoEmAtividade(atividadeSistema);
+
 
             new DiscoBanco().cadastrarDados(metodoDisc);
 

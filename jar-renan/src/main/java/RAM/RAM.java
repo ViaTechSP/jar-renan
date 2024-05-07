@@ -1,12 +1,17 @@
 package RAM;
 
+import com.github.britooo.looca.api.core.Looca;
+import com.github.britooo.looca.api.util.Conversor;
+
 public class RAM {
+
+    Looca looca = new Looca();
     private String disponivel;
     private String memoriaTotal;
     private String memoriaUtilizada;
 
     public String getDisponivel() {
-        return String.valueOf(disponivel);
+      return   disponivel = Conversor.formatarBytes(looca.getMemoria().getDisponivel());
     }
 
     public void setDisponivel(String disponivel) {
@@ -14,7 +19,7 @@ public class RAM {
     }
 
     public String getMemoriaTotal() {
-        return String.valueOf(memoriaTotal);
+        return memoriaTotal = Conversor.formatarBytes(looca.getMemoria().getTotal());
     }
 
     public void setMemoriaTotal(String memoriaTotal) {
@@ -22,7 +27,7 @@ public class RAM {
     }
 
     public String getMemoriaUtilizada() {
-        return String.valueOf(memoriaUtilizada);
+        return memoriaUtilizada = Conversor.formatarBytes(looca.getMemoria().getEmUso());
     }
 
     public void setMemoriaUtilizada(String memoriaUtilizada) {

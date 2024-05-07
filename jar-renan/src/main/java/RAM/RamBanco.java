@@ -9,7 +9,7 @@ public class RamBanco {
 
     public void cadastrarDados(RAM metodoRam) throws ClassNotFoundException{
 
-        String sql = "INSERT INTO Ram (memoriaDisponivel, memoriaTotal, memoriaUtilizada) VALUES (?, ?, ?)";
+        String sql = "INSERT INTO ram (memoriaDisponivel, memoriaTotal, memoriaUtilizada) VALUES (?, ?, ?)";
 
         PreparedStatement ps = null;
 
