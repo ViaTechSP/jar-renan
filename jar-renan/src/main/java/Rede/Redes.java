@@ -21,7 +21,7 @@ public class Redes {
     }
 
     public String getIp() {
-        return ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoIpv4().toString();
+        return ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoIpv6().toString();
     }
 
     public void setIp(String ip) {

@@ -7,7 +7,7 @@ public class TESTE {
 
         Looca looca = new Looca();
         Sistema sistema = new Sistema();
-        System.out.println(Conversor.formatarBytes(looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getBytesRecebidos()));
+        System.out.println(looca.getRede().getGrupoDeInterfaces().getInterfaces());
 
 
         
