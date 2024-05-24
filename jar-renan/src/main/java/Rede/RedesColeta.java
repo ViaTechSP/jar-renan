@@ -11,9 +11,9 @@ public class RedesColeta {
         Looca looca = new Looca();
 
         String nomeDominio = looca.getRede().getParametros().getNomeDeDominio();
-        String ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoIpv6().toString();
-        String enderecoMac = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoMac();
-        String bytesEnviados = Conversor.formatarBytes(looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getBytesEnviados());
+        String ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getEnderecoIpv6().toString();
+        String enderecoMac = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getEnderecoMac();
+        String bytesEnviados = Conversor.formatarBytes(looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getBytesEnviados());
 
         Redes metodoRedes = new Redes();
         metodoRedes.setNomeDominio(nomeDominio);

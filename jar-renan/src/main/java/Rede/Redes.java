@@ -21,7 +21,7 @@ public class Redes {
     }
 
     public String getIp() {
-        return ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoIpv6().toString();
+        return ip = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getEnderecoIpv6().toString();
     }
 
     public void setIp(String ip) {
@@ -29,7 +29,7 @@ public class Redes {
     }
 
     public String getEnderecoMac() {
-        return enderecoMac = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getEnderecoMac();
+        return enderecoMac = looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getEnderecoMac();
     }
 
     public void setEnderecoMac(String enderecoMac) {
@@ -37,7 +37,7 @@ public class Redes {
     }
 
     public String getBytesEnviados() {
-        return bytesEnviados = Conversor.formatarBytes(looca.getRede().getGrupoDeInterfaces().getInterfaces().get(3).getBytesEnviados());
+        return bytesEnviados = Conversor.formatarBytes(looca.getRede().getGrupoDeInterfaces().getInterfaces().get(1).getBytesEnviados());
     }
 
     public void setBytesEnviados(String bytesEnviados) {

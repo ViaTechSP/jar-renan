@@ -9,8 +9,7 @@ import java.sql.SQLOutput;
 public class BancoConexao {
 
 
-
-    private static final String url = "jdbc:mysql://localhost:3306/projeto";
+    private static final String url = "jdbc:mysql://54.158.78.232:3306/renan";
 
     private static final String user = "root";
     private static final String password = "Renan12.";

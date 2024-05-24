@@ -1,0 +1,492 @@
+mai. 23, 2024 10:41:18 AM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 23, 2024 10:41:18 AM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 23, 2024 10:41:30 AM Console.ConsoleService main
+INFO: Nome da empresa: Renan
+mai. 23, 2024 10:41:32 AM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 23, 2024 10:41:33 AM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Renan
+mai. 23, 2024 10:41:45 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,0 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,2 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 531,4 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 58,9 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:35:23
+ ----------------------------------------
+
+mai. 23, 2024 10:41:49 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 2
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,1 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 464,3 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:35:27
+ ----------------------------------------
+
+mai. 23, 2024 10:41:54 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 3
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,1 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 442,1 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:35:32
+ ----------------------------------------
+
+mai. 23, 2024 10:41:59 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 4
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,1 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 439,6 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:35:37
+ ----------------------------------------
+
+mai. 23, 2024 10:42:00 AM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 23, 2024 10:42:01 AM Console.ConsoleService main
+INFO: Programa encerrado pelo usuário: Renan
+mai. 23, 2024 10:44:00 AM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 23, 2024 10:44:01 AM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 23, 2024 10:44:07 AM Console.ConsoleService main
+INFO: Nome da empresa: Renan
+mai. 23, 2024 10:44:10 AM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 23, 2024 10:44:10 AM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Renan
+mai. 23, 2024 10:44:14 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,3 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 441,4 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:37:51
+ ----------------------------------------
+
+mai. 23, 2024 10:44:18 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 2
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,3 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 406,1 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:37:56
+ ----------------------------------------
+
+mai. 23, 2024 10:44:23 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 3
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 18,3 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 7,3 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 381,0 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:38:01
+ ----------------------------------------
+
+mai. 23, 2024 10:44:25 AM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 23, 2024 10:44:26 AM Console.ConsoleService main
+INFO: Programa encerrado pelo usuário: Renan
+mai. 23, 2024 10:55:25 AM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 23, 2024 10:55:25 AM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 23, 2024 10:55:34 AM Console.ConsoleService main
+INFO: Nome da empresa: Renan
+mai. 23, 2024 10:55:42 AM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 23, 2024 10:55:42 AM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Renan
+mai. 23, 2024 10:55:50 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,7 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 1,0 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:28
+ ----------------------------------------
+
+mai. 23, 2024 10:55:53 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 2
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,8 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 954,1 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:30
+ ----------------------------------------
+
+mai. 23, 2024 10:55:58 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 3
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,8 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 979,0 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:36
+ ----------------------------------------
+
+mai. 23, 2024 10:56:03 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 4
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,8 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 943,2 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:41
+ ----------------------------------------
+
+mai. 23, 2024 10:56:08 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 5
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,8 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 899,1 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:46
+ ----------------------------------------
+
+mai. 23, 2024 10:56:13 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 6
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 841,9 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:51
+ ----------------------------------------
+
+mai. 23, 2024 10:56:18 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 7
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 792,5 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:49:56
+ ----------------------------------------
+
+mai. 23, 2024 10:56:23 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 8
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 856,0 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:50:01
+ ----------------------------------------
+
+mai. 23, 2024 10:56:28 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 9
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 846,5 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:50:05
+ ----------------------------------------
+
+mai. 23, 2024 10:56:33 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 10
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 845,9 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:50:11
+ ----------------------------------------
+
+mai. 23, 2024 10:56:38 AM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 11
+
+ Rede info:
+ Nome Usuário: BOOK-6RCT1IF8T6
+ ip: [fe80:0:0:0:aee7:720b:16d:4bbb]
+ MAC address: 80:38:fb:a5:1b:8a
+ Uso de Dados de Redes: 21,9 MiB
+
+ Memória RAM info:
+ Memória RAM em uso: 6,9 GiB
+ Memória RAM Total: 7,7 GiB
+ Memória RAM Disponível: 848,1 MiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 59,0 MiB
+ Espaço Disponível: 58,6 GiB
+ Espaço Total: 1,1 TiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 11 days, 11:50:16
+ ----------------------------------------
+
+mai. 23, 2024 10:56:41 AM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 23, 2024 10:56:45 AM Console.ConsoleService main
+INFO: Programa encerrado pelo usuário: Renan
